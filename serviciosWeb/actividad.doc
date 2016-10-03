@@ -1,0 +1,34 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 5.2.1.2 (Linux)"/>
+	<meta name="created" content="00:00:00"/>
+	<meta name="changed" content="2016-09-21T18:28:51.374494588"/>
+	<style type="text/css">
+		h2.cjk { font-family: "Droid Sans Fallback" }
+		h2.ctl { font-family: "FreeSans" }
+	</style>
+</head>
+<body lang="en-US" dir="ltr">
+<h1>Actividad en aula 3</h1>
+<h2 class="western" align="justify"><a name="instrucciones"></a><em>Instrucciones</em></h2>
+<p align="justify">Su cliente quiere desarrollar un sistema para
+almacenar informacion en donde los distribuidores pueden acceder a la
+informacion de las compañias y pueden evaluar varios escenarios de
+inversion usando un sistema de simulacion. Cada distribuidor usa esta
+simulacion de forma diferente, de acuerdo con su experiencia y el
+tipo de almacenes con los que trabaja, sugiera una arquitectura
+cliente-servidor que usted ha elegido.</p>
+<h2 class="western" align="justify"><a name="modelo-elegido"></a>Modelo
+elegido:</h2>
+<p align="justify"><strong>Arquitectura de 3 capas</strong> 
+</p>
+<p align="justify"><em>Razon:</em> Este tipo de simulacion o de
+evaluacion de sistemas necesita ser rapido y eficaz y al escoger la
+arquitectura de 3 capas, vamos a poder simular los sistemas de
+informacion de manera mas rapida ya que vamos a estar utilizando 3
+procesadores diferentes para cada instruccion.</p>
+</body>
+</html>
