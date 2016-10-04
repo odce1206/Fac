@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Orlando Cuevas Eufracio" />
+  <title>Actividad 3</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<div id="header">
+<h1 class="title">Actividad 3</h1>
+<h2 class="author">Orlando Cuevas Eufracio</h2>
+</div>
+<h2 id="su-cliente-quiere-desarrollar-un-sistema-para-almacenar-información-en-donde-los-distribuidores-pueden-acceder-a-la-información-de-las-compañías-y-pueden-evaluar-varios-escenarios-de-inversión-usando-un-sistema-de-simulación.-cada-distribuidor-usa-esta-simulación-de-forma-diferente-de-acuerdo-con-su-experiencia-y-el-tipo-de-almacenes-con-los-que-trabaja-sugiera-una-arquitectura-cliente-servidor-que-usted-ha-elegido.">Su cliente quiere desarrollar un sistema para almacenar información en donde los distribuidores pueden acceder a la información de las compañías, y pueden evaluar varios escenarios de inversión usando un sistema de simulación. Cada distribuidor usa esta simulación de forma diferente, de acuerdo con su experiencia y el tipo de almacenes con los que trabaja, sugiera una arquitectura cliente-servidor que usted ha elegido.</h2>
+<p>: Cliente rico ya que como se estarian moviendo paquetes de informacion pesados, el servidor puede saturarse y de esta manera podemos asegurarnos de que mucha parte del trabajo sea hecha directamente con el cliente.</p>
+</body>
+</html>
