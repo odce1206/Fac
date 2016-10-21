@@ -81,8 +81,7 @@ Table: Esta tabla representa las diferencias entre empresas mercantiles y no mre
 	- Buscar las rspuestas correctas
 	- Pasar a la accion en el momento oportuno
 	- Tener enormes deseos de superacion y pasion por el trabajo.
-	- Ser persistene y poseer la suficiente voluntad para superar los inconvenientes que se le presenten, hasta
-alcanzar a sus metas a largo plazo.
+	- Ser persistene y poseer la suficiente voluntad para superar los inconvenientes que se le presenten, hasta alcanzar a sus metas a largo plazo.
 
 - - -
 
@@ -267,3 +266,67 @@ Enfasis en mejorar continuamente sus productos.
         + Disminuir promociones
         + Desmercadotecnia
 
+# Modelo de negocio de internet
+
+##¿Que se puede realizar?
+
+- Resolver problemas reales
+
+## ¿Cuando?
+
+- Cuando se busca tener un trafico de visitas elevado o especializado, se puede usar un modelo de negocio basado en la publicidad.
+- Cuando se busca extender la experiencia de un comercio convencional o crear un nuevo comercio virtual.
+- Cuando se busca crear un contacto entre la oferta y la demanda se usa un modelo ede negocios basados en la intermediacion.
+
+# Modelo de Afiliacion
+
+## Ejemplos de modelo de afiliacion:
+- Ebates
+- Jewely Shop
+
+# Modelo de negocio basado en publicidad
+
+## Tipos de modelos de publicidad
+
+- Mediante sistemas de pujas
+- Mediante patrocinio
+- Colocacion pagada basada en consultas
+
+# Modelos freemium
+
+Termino popularizado en 2006 por Fred Wilson de _Union Square Ventures_. Freemium es un modelo comrecial que funciona ofreciendo un juego, un producto o servicio gratituamente.
+
+## Modelo suscripcion:
+- Es aquel que en lugar de cerrar cada vez una venta para comercializarun producto, se renueva con una periodicidad.
+
+# Modelo realista por internet mixto:
+
+- Es conocidos por todos que, no basta con desarrollar un solo metodo. 
+
+# Modelos Broker
+
+- Cuando se pueden aplicar?
+    - Mercados de intercambio
+    - Cumplimiento de compraventa
+    - Sistema colector de la demanda
+    - Corredor de subastas
+    - Corredor de transacciones
+    - Distribuidor
+    - Agente de busquedas
+    - Mercado final
+
+
+# Modelo Lienzo
+
+## Modelo Canvas Lienzo:
+
+![Imagen modelo de Canvas](http://3.bp.blogspot.com/-taDeFmNFK2A/T8UMWDceVDI/AAAAAAAAAjg/HX41U_ZexiY/s1600/model-canvas.jpg)
+
+## Logistica y distribucion
+
+- Un punto muy importante y que muchas veces es el gran desconocido.
+- Debemos determinar con anteriorirdad a la primer compra como vamos a hacer llegar el producto a nuestro comprador.
+- Y tambien debemos calcular e costo repercutido del envio:
+
+
+#TAREA: Realizar un lienzo canvas aplicdo a una empresa propia - Tema Libre
