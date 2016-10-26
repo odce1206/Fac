@@ -211,3 +211,20 @@ Un conjunto de aplicaciones o tecnologias con habilidad de interoperar en la web
 - Los sistemas _p2p_ son sistemas descentralizados, en los que los calculos pueden llevarse a cabo en cualquier nodo de la red y al menos en principio, no se hacen distinciones entre clientes y servidores.
 
 - En teoria, en los sistemas p2p, cada nodo podria conocer cualquier otro nodo
+
+# UDDI
+
+# Utilidades de los UDDI
+- En tiempos de diseño, permite a desarrolladores localizar servicios disponibles para utilizar desde aplicaciones u otros servicios.
+- En tiempos de ejecucion, permite a un programa localizar dinamicamente implementaciones de servicios y utilizarlas
+
+# Arquitectura de un UDDI
+- La arquitectura de UDDI se compone de los siguientes elementos:
+    - Clientes
+    - Una o mas implementaciones de UDDI (nodos) que forman un registro
+    - Cero o mas servidores de taxonomia
+        - Taxonomias: esquemas de categorizacion, metadatos que se pueden utilizar en las consultas para localizar servicios
+        - Pueden ser de dominio publico o propietarias.
+- Los clientes interaccionan con el registro UDDI mediante SOAP sobre HTTP, mediante APIS
+- Una consulta debe devlver la misma informacion indepndientemente del nodo del registro al cual se envie.
+- Cada nodo del registro se encarga de custodiar una parte de la informacion del mismo, que solo puede ser actualizada a traves de el

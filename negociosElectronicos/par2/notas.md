@@ -49,3 +49,7 @@
 ## Politica de comunicacion
 
 - Una vez definido nuestro target, fijaremos el tipo de campaña de comunicacion, individualizadas por productos, personalizadasm informativas, de imagen, formativas, motivacionales...
+
+## Que son los sevicios de la sociedad de la informacion?
+
+- 

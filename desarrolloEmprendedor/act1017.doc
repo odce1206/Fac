@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title>Actividad 17 Octubre</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<div id="header">
+<h1 class="title">Actividad 17 Octubre</h1>
+</div>
+<h2 id="materiales">Materiales:</h2>
+<ul>
+<li>Impresora 3D por deposicion por material fundido.</li>
+<li>Software: AutoCAD.</li>
+<li>Polímero. (PLA).</li>
+<li>Acetona (para unir piezas).</li>
+</ul>
+<h2 id="requerimiento-de-capital">Requerimiento de Capital</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="left">#</th>
+<th align="center">Material</th>
+<th align="right">Precio</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">1</td>
+<td align="center">Impresora 3d</td>
+<td align="right">$9,445.56</td>
+</tr>
+<tr class="even">
+<td align="left">2</td>
+<td align="center">OpenCad (Software para generar modelo 3d)</td>
+<td align="right">Licencia Gratis</td>
+</tr>
+<tr class="odd">
+<td align="left">3</td>
+<td align="center">Polímeros</td>
+<td align="right">$430 - $700</td>
+</tr>
+<tr class="even">
+<td align="left">4</td>
+<td align="center">Acetona</td>
+<td align="right">$50 - $100</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
