@@ -228,3 +228,28 @@ Un conjunto de aplicaciones o tecnologias con habilidad de interoperar en la web
 - Los clientes interaccionan con el registro UDDI mediante SOAP sobre HTTP, mediante APIS
 - Una consulta debe devlver la misma informacion indepndientemente del nodo del registro al cual se envie.
 - Cada nodo del registro se encarga de custodiar una parte de la informacion del mismo, que solo puede ser actualizada a traves de el
+
+## Porque surgio?
+- El desarrollo de la WWW trajo consigo que las computadoras cliente tuviesen acceso a los servidores remotos situados fuera de sus propias organizaciones
+- Si estas organizaciones convertian su informacion a formato HTML, entonces esta podia ser accedida por estas computadoras.
+- Pero se necesitaba un navegador web
+- Y las conexiones oportunistas
+
+## ¿Como solucionaron el acceso directo a almacenes de informacion por otros programas?
+- Uso de servicio web
+- La informacion era accesible debido a una interfaz de servicio web.
+- La interfaz define los datoas disponibles y como acceder a ellos.
+
+## Definicion de servicio web
+- Es una representacion estandar para cualquier recurso computacional o de informacion que pueda ser usado por otros programas.
+- Es una instancia de una ncion mas general de un servicio, la cual se define como:
+    - Un acto o realizacion ofertada por una de las partes a otra, si bien el proceso puede sestar asociado a un producto fisico, la realizacion es escencialmente itangible y no se convierte normalmente e propietaria de cualquier de los factores de la produccion
+
+## Arquitctura conceptual de un sistema orientado a servicios
+- Un proveedor de servicio oferta un servicio definiendo su interfaz y definiendo la funcionalidad del servicio
+- Un solicitante del servicio enlaza este servicio en su aplicacion
+- El proveedor  de servicios registra una entrada en el servicio de registros que incluye informacion sobre el servicio y lo que hace, para asegurar que el servicio puede ser accedido.
+
+## Estandares fundamentales:
+- Permitan las comunicaciones entre servicios web son:
+    - 
