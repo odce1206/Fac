@@ -53,3 +53,26 @@
 ## Que son los sevicios de la sociedad de la informacion?
 
 - 
+
+
+## Marco juridico del marketing
+- 
+
+- La creacion de la pgaina web
+    - Nombres de dominio
+    - Contrato de hosting
+    - Contratos de data centers
+- La proteccion de la pagina web:  una pagina 'legal'
+- Propiedad intelectual
+- Proteccion de datos y privacidad
+- Servicios Web2.0 y cloud computing
+- Manejo de herramientas tecnologicas en el trabajo
+- Responsabilidad de los ISP
+- Implcaciones legales del marketing online
+- Seguridad informatica
+- Comrecio electronico
+    - Ley 527 de 1999
+    - Firma y facturacion electronica
+    - Teletrabajo
+
+
