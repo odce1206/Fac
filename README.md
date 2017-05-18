@@ -12,8 +12,8 @@
 18/05/2017
 ============
 
-|   | Artist       | Album               | Rating     | Fav. Song          |
-|   | -------      | ------------------- | :--------: | ---------          |
+| .  | Artist       | Album               | Rating     | Fav. Song          |
+| .  | -------      | ------------------- | :--------: | ---------          |
 | 1 | Deicide      | Deicide             | 4/5        | Dead by Dawn       |
 | 2 | Gatecreeper  | Sonoran Depravation | 4.5/5      | -                  |
 | 3 | Cruciamentum | Charnel Passages    | 4.5/5      | Collapse           |
