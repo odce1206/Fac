@@ -19,4 +19,4 @@
 | 3 | Cruciamentum | Charnel Passages    | 4.5/5      | Collapse           |
 | 4 | Abominator   | Evil Proclaimed     | 3.5/5      | Black Mass Warfare |
 | 5 | Slayer       | Show No Mercy       | 4/5        | Black Magic        |
-| 6 | Ekpyrosis    | Witness His Dead    | */5        |                    |
+| 6 | Ekpyrosis    | Witness His Dead    | ./5        |                    |
